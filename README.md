@@ -1,5 +1,7 @@
 # DJI-FPV-Goggles
 
+This is my starting point for reverse engineering the video out through Smart Controller
+
 ## Links
 
 ### What others have found
