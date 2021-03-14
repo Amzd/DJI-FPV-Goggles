@@ -2,9 +2,7 @@
 
 This is my starting point for reverse engineering the video out through Smart Controller
 
-## Links
-
-### What others have found
+## What others have found
 
 distric-michael
 - Dump of the FPV Live app from the SC https://github.com/district-michael/fpv_live
@@ -19,9 +17,9 @@ yngndrw
 - "I've noticed that when connecting my goggles to my PC, a RNDIS connection is opened with the IP range 192.168.42.*" https://github.com/dji-sdk/Windows-SDK/issues/68#issuecomment-746053105 
 - https://github.com/yngndrw
 
+I remember someone saying they had a rooted SC on a forum post a few months ago, someone then asked them for the apk but back then there was no reply yet.
 
-
-### For development
+## For development
 - IOKit on iOS https://github.com/guoxuzan/IOKit
 - libusb on iOS (IOKit alternative) https://github.com/Brandon-T/iOUSB
 - iOS app that uses USB https://mologie.github.io/nxboot/
