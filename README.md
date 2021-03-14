@@ -9,6 +9,7 @@ This is my starting point for reverse engineering the video out through Smart Co
 distric-michael
 - Dump of the FPV Live app from the SC https://github.com/district-michael/fpv_live
 - Backup https://github.com/Amzd/fpv_live
+- Other users that made forks seem not have collected any more data
 
 jseaber
 - "I'll try to sniff a Smart Controller when I have a chance." https://intofpv.com/t-scam-dji-fpv-goggles-hdmi-output-input-hacked?pid=114421#pid114421
