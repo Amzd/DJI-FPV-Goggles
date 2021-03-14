@@ -17,7 +17,13 @@ yngndrw
 - "I've noticed that when connecting my goggles to my PC, a RNDIS connection is opened with the IP range 192.168.42.*" https://github.com/dji-sdk/Windows-SDK/issues/68#issuecomment-746053105 
 - https://github.com/yngndrw
 
+deleted
+- "There's a rumour that someone is hacking the DJI goggles to enable HDMI output so spectators can see the flight... involving custom firmware, additional hardware and some DIY..." https://www.facebook.com/intofpv/posts/theres-a-rumour-that-someone-is-hacking-the-dji-goggles-to-enable-hdmi-output-so/3176521739104699/
+- https://intofpv.com/t-dji-fpv-goggles-hdmi-output-input-hacked
+
 I remember someone saying they had a rooted SC on a forum post a few months ago, someone then asked them for the apk but back then there was no reply yet.
+
+There's a lot more info on facebook but I don't want to make an account just to read it so we'll do without that info.
 
 ## For development
 - IOKit on iOS https://github.com/guoxuzan/IOKit
