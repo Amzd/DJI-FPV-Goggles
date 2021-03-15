@@ -21,10 +21,17 @@ deleted
 - "There's a rumour that someone is hacking the DJI goggles to enable HDMI output so spectators can see the flight... involving custom firmware, additional hardware and some DIY..." https://www.facebook.com/intofpv/posts/theres-a-rumour-that-someone-is-hacking-the-dji-goggles-to-enable-hdmi-output-so/3176521739104699/
 - https://intofpv.com/t-dji-fpv-goggles-hdmi-output-input-hacked
 
-I remember someone saying they had a rooted SC on a forum post a few months ago, someone then asked them for the apk but back then there was no reply yet.
+amstar & Aerial-Pixel
+- Rooted Smart Controller https://mavicpilots.com/threads/successful-rooting-of-rm500-also-known-as-the-smart-controller.62580
+- "As of now appears to be designed for running the go4 app and that’s pretty much it, rooted or not"
+- "This android device does not have its own google usb driver"
 
 There's a lot more info on facebook but I don't want to make an account just to read it so we'll do without that info.
 
+## Slightly relevant
+
+- "This wiki is designed to store data relating to reverse engineering of DJI aircraft." https://dji.retroroms.info/start
+- "This repository contains tools for reverse engineering DJI products." https://github.com/fvantienen/dji_rev
 ## For development
 - IOKit on iOS https://github.com/guoxuzan/IOKit
 - libusb on iOS (IOKit alternative) https://github.com/Brandon-T/iOUSB
