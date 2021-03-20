@@ -28,11 +28,17 @@ amstar & Aerial-Pixel
 
 There's a lot more info on facebook but I don't want to make an account just to read it so we'll do without that info.
 
+## Reverse engineering USB
+
+- MITM USB connections https://github.com/usb-tools/Facedancer
+
 ## Slightly relevant
 
 - "This wiki is designed to store data relating to reverse engineering of DJI aircraft." https://dji.retroroms.info/start
 - "This repository contains tools for reverse engineering DJI products." https://github.com/fvantienen/dji_rev
+
 ## For development
+
 - IOKit on iOS https://github.com/guoxuzan/IOKit
 - libusb on iOS (IOKit alternative) https://github.com/Brandon-T/iOUSB
 - iOS app that uses USB https://mologie.github.io/nxboot/
