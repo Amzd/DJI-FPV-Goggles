@@ -39,6 +39,7 @@ There's a lot more info on facebook but I don't want to make an account just to 
 
 ## For development
 
+- https://www.avrfreaks.net/forum/any-bluetooth-modules-act-usb-middle-man
 - IOKit on iOS https://github.com/guoxuzan/IOKit
 - libusb on iOS (IOKit alternative) https://github.com/Brandon-T/iOUSB
 - iOS app that uses USB https://mologie.github.io/nxboot/
