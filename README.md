@@ -39,6 +39,7 @@ There's a lot more info on facebook but I don't want to make an account just to 
 
 ## For development
 
+- https://stackoverflow.com/questions/27376450/how-does-the-gopro-pair-with-an-iphone
 - https://www.avrfreaks.net/forum/any-bluetooth-modules-act-usb-middle-man
 - IOKit on iOS https://github.com/guoxuzan/IOKit
 - libusb on iOS (IOKit alternative) https://github.com/Brandon-T/iOUSB
