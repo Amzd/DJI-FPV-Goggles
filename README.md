@@ -47,3 +47,17 @@ There's a lot more info on facebook but I don't want to make an account just to 
 - Getting unique ID to confirm purchase https://stackoverflow.com/a/44649908/3393964
 - "With Apple Business Manager [...] you can privately and securely distribute to specific partners, clients, franchisees. And you can also distribute proprietary apps to your internal employees." https://developer.apple.com/custom-apps/
 - How to install app with private frameworks if ABM doesn't work https://getutm.app/install/
+
+## App Store
+
+My theory to possibly get an app in the appstore that can control USB devices is if you had a microcontroller that becomes the host USB and sends the USB messages over USBIP on it's own WiFi network. Since it acts as the host this would not get powered so you still need a cable from the iOS device to the microcontroller which allows it to draw power (iOS limits this to under 100mA whatever that means).
+
+Then on device side I need to write a clientside USBIP framework for iOS because you cannot just mount it like the linux/win USBIP does due to IOKit being a private framework which is not allowed on the App Store. 
+
+A device that almost exactly does what I wanted called Sever: https://hackaday.io/project/20206-wireless-usb-for-instant-iot
+The main difference is that it connects to an existing network rather than create it's own network that an iOS device then connects to. WiFiDuck is an example of a microdevice that DOES create it's own wifi network: https://github.com/spacehuhntech/wifiduck
+
+How this could work:
+<img width="935" alt="image" src="https://user-images.githubusercontent.com/17001151/113121481-fefd1e80-9212-11eb-8719-b0769b074cc0.png">
+
+This doesn't seem to be illegal in the App Store and it get's the same result as IOKit and a usb.
