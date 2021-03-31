@@ -60,4 +60,4 @@ The main difference is that it connects to an existing network rather than creat
 How this could work:
 <img width="935" alt="image" src="https://user-images.githubusercontent.com/17001151/113121481-fefd1e80-9212-11eb-8719-b0769b074cc0.png">
 
-This doesn't seem to be illegal in the App Store and it get's the same result as IOKit and a usb.
+This doesn't seem to be illegal in the App Store (GoPro and SpeedyBee use it) and it get's the same result as IOKit and a usb.
