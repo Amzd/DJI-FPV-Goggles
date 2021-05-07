@@ -44,6 +44,7 @@ There's a lot more info on facebook but I don't want to make an account just to 
 - IOKit on iOS https://github.com/guoxuzan/IOKit
 - libusb on iOS (IOKit alternative) https://github.com/Brandon-T/iOUSB
 - iOS app that uses USB https://mologie.github.io/nxboot/
+- 0day for <13.5 https://siguza.github.io/psychicpaper/
 - Getting unique ID to confirm purchase https://stackoverflow.com/a/44649908/3393964
 - "With Apple Business Manager [...] you can privately and securely distribute to specific partners, clients, franchisees. And you can also distribute proprietary apps to your internal employees." https://developer.apple.com/custom-apps/
 - How to install app with private frameworks if ABM doesn't work https://getutm.app/install/
