@@ -50,6 +50,7 @@ There's a lot more info on facebook but I don't want to make an account just to 
 - How to install app with private frameworks if ABM doesn't work https://getutm.app/install/
 - https://pastebin.com/2xFgtZX7 https://pastebin.com/f1w9XdK3
 - rtmpdump for iOS https://github.com/ProcursusTeam/Procursus/blob/master/rtmpdump.mk
+- port this to iOS https://github.com/sallar/mac-local-rtmp-server
 
 ## App Store
 
