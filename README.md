@@ -49,6 +49,7 @@ There's a lot more info on facebook but I don't want to make an account just to 
 - "With Apple Business Manager [...] you can privately and securely distribute to specific partners, clients, franchisees. And you can also distribute proprietary apps to your internal employees." https://developer.apple.com/custom-apps/
 - How to install app with private frameworks if ABM doesn't work https://getutm.app/install/
 - https://pastebin.com/2xFgtZX7 https://pastebin.com/f1w9XdK3
+- rtmpdump for iOS https://github.com/ProcursusTeam/Procursus/blob/master/rtmpdump.mk
 
 ## App Store
 
